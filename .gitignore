@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Arduino build artifacts
+*.elf
+*.hex
+*.bin
+*.map
+*.eep
+*.o
+*.d
+*.a
+*.so
+
+# Arduino IDE metadata
+*.ino.with_bootloader.*
